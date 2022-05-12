@@ -3001,7 +3001,7 @@
   },
   {
     "class":"firrtl.transforms.BlackBoxResourceFileNameAnno",
-    "resourceFileName":"/hdd2/ygkim/riscv/chipyard/encor-chipyard15_211117/encor-chipyard15/sims/vcs/generated-src/chipyard.TestHarness.RocketConfig/firrtl_black_box_resource_files.harness.f"
+    "resourceFileName":"//home/ygkim/Project/riscv/chipyard/chipyard/sims/vcs/generated-src/chipyard.TestHarness.RocketConfig/firrtl_black_box_resource_files.harness.f"
   },
   {
     "class":"logger.LogLevelAnnotation",
@@ -3011,43 +3011,43 @@
   },
   {
     "class":"firrtl.options.TargetDirAnnotation",
-    "directory":"/hdd2/ygkim/riscv/chipyard/encor-chipyard15_211117/encor-chipyard15/sims/vcs/generated-src/chipyard.TestHarness.RocketConfig"
+    "directory":"//home/ygkim/Project/riscv/chipyard/chipyard/sims/vcs/generated-src/chipyard.TestHarness.RocketConfig"
   },
   {
     "class":"barstools.tapeout.transforms.stage.HarnessConfAnnotation",
-    "harnessConf":"/hdd2/ygkim/riscv/chipyard/encor-chipyard15_211117/encor-chipyard15/sims/vcs/generated-src/chipyard.TestHarness.RocketConfig/chipyard.TestHarness.RocketConfig.harness.mems.conf"
+    "harnessConf":"//home/ygkim/Project/riscv/chipyard/chipyard/sims/vcs/generated-src/chipyard.TestHarness.RocketConfig/chipyard.TestHarness.RocketConfig.harness.mems.conf"
   },
   {
     "class":"firrtl.passes.memlib.ReplSeqMemAnnotation",
     "inputFileName":"",
-    "outputConfig":"/hdd2/ygkim/riscv/chipyard/encor-chipyard15_211117/encor-chipyard15/sims/vcs/generated-src/chipyard.TestHarness.RocketConfig/chipyard.TestHarness.RocketConfig.harness.mems.conf"
+    "outputConfig":"//home/ygkim/Project/riscv/chipyard/chipyard/sims/vcs/generated-src/chipyard.TestHarness.RocketConfig/chipyard.TestHarness.RocketConfig.harness.mems.conf"
   },
   {
     "class":"firrtl.passes.memlib.InferReadWriteAnnotation$"
   },
   {
     "class":"barstools.tapeout.transforms.stage.HarnessFirAnnotation",
-    "harnessFir":"/hdd2/ygkim/riscv/chipyard/encor-chipyard15_211117/encor-chipyard15/sims/vcs/generated-src/chipyard.TestHarness.RocketConfig/chipyard.TestHarness.RocketConfig.harness.fir"
+    "harnessFir":"//home/ygkim/Project/riscv/chipyard/chipyard/sims/vcs/generated-src/chipyard.TestHarness.RocketConfig/chipyard.TestHarness.RocketConfig.harness.fir"
   },
   {
     "class":"barstools.tapeout.transforms.stage.HarnessDotfOutAnnotation",
-    "harnessDotfOut":"/hdd2/ygkim/riscv/chipyard/encor-chipyard15_211117/encor-chipyard15/sims/vcs/generated-src/chipyard.TestHarness.RocketConfig/firrtl_black_box_resource_files.harness.f"
+    "harnessDotfOut":"//home/ygkim/Project/riscv/chipyard/chipyard/sims/vcs/generated-src/chipyard.TestHarness.RocketConfig/firrtl_black_box_resource_files.harness.f"
   },
   {
     "class":"barstools.tapeout.transforms.stage.HarnessAnnoOutAnnotation",
-    "harnessAnnoOut":"/hdd2/ygkim/riscv/chipyard/encor-chipyard15_211117/encor-chipyard15/sims/vcs/generated-src/chipyard.TestHarness.RocketConfig/chipyard.TestHarness.RocketConfig.harness.anno.json"
+    "harnessAnnoOut":"//home/ygkim/Project/riscv/chipyard/chipyard/sims/vcs/generated-src/chipyard.TestHarness.RocketConfig/chipyard.TestHarness.RocketConfig.harness.anno.json"
   },
   {
     "class":"barstools.tapeout.transforms.stage.TopFirAnnotation",
-    "topFir":"/hdd2/ygkim/riscv/chipyard/encor-chipyard15_211117/encor-chipyard15/sims/vcs/generated-src/chipyard.TestHarness.RocketConfig/chipyard.TestHarness.RocketConfig.top.fir"
+    "topFir":"//home/ygkim/Project/riscv/chipyard/chipyard/sims/vcs/generated-src/chipyard.TestHarness.RocketConfig/chipyard.TestHarness.RocketConfig.top.fir"
   },
   {
     "class":"barstools.tapeout.transforms.stage.TopDotfOutAnnotation",
-    "topDotfOut":"/hdd2/ygkim/riscv/chipyard/encor-chipyard15_211117/encor-chipyard15/sims/vcs/generated-src/chipyard.TestHarness.RocketConfig/firrtl_black_box_resource_files.top.f"
+    "topDotfOut":"//home/ygkim/Project/riscv/chipyard/chipyard/sims/vcs/generated-src/chipyard.TestHarness.RocketConfig/firrtl_black_box_resource_files.top.f"
   },
   {
     "class":"barstools.tapeout.transforms.stage.TopAnnoOutAnnotation",
-    "topAnnoOut":"/hdd2/ygkim/riscv/chipyard/encor-chipyard15_211117/encor-chipyard15/sims/vcs/generated-src/chipyard.TestHarness.RocketConfig/chipyard.TestHarness.RocketConfig.top.anno.json"
+    "topAnnoOut":"//home/ygkim/Project/riscv/chipyard/chipyard/sims/vcs/generated-src/chipyard.TestHarness.RocketConfig/chipyard.TestHarness.RocketConfig.top.anno.json"
   },
   {
     "class":"firrtl.transforms.BlackBoxResourceAnno",
@@ -3191,7 +3191,7 @@
   },
   {
     "class":"firrtl.stage.OutputFileAnnotation",
-    "file":"/hdd2/ygkim/riscv/chipyard/encor-chipyard15_211117/encor-chipyard15/sims/vcs/generated-src/chipyard.TestHarness.RocketConfig/chipyard.TestHarness.RocketConfig.harness.v"
+    "file":"//home/ygkim/Project/riscv/chipyard/chipyard/sims/vcs/generated-src/chipyard.TestHarness.RocketConfig/chipyard.TestHarness.RocketConfig.harness.v"
   },
   {
     "class":"firrtl.stage.InfoModeAnnotation",
@@ -3203,6 +3203,6 @@
   },
   {
     "class":"firrtl.transforms.BlackBoxTargetDirAnno",
-    "targetDir":"/hdd2/ygkim/riscv/chipyard/encor-chipyard15_211117/encor-chipyard15/sims/vcs/generated-src/chipyard.TestHarness.RocketConfig"
+    "targetDir":"//home/ygkim/Project/riscv/chipyard/chipyard/sims/vcs/generated-src/chipyard.TestHarness.RocketConfig"
   }
 ]
